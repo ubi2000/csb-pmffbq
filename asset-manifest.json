@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://ubi2000.github.io/csb-pmffbq/static/css/main.fc5c2c69.css",
+    "main.js": "https://ubi2000.github.io/csb-pmffbq/static/js/main.9df817c0.js",
+    "index.html": "https://ubi2000.github.io/csb-pmffbq/index.html",
+    "main.fc5c2c69.css.map": "https://ubi2000.github.io/csb-pmffbq/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://ubi2000.github.io/csb-pmffbq/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
